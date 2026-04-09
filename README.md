@@ -1,4 +1,5 @@
 # Week 8 Practical: AI Gesture Recognition with InteractML
+## Important: You must clone this project through the ‘Use Template’ button
 
 In this week’s lecture, we learned about AI and how relevant it is to the development of advanced interaction experiences. We saw how machine learning can allow us to train computers to do complex tasks by showing them lots of examples of a desired action or output.
 
