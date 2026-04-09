@@ -7,7 +7,7 @@ One of the use cases for this approach we saw in the lecture was gesture recogni
 But what if, instead, we could teach a computer to detect a gesture by just showing it examples of that gesture? Today we’re going to learn how to do just this, by using a Unity plugin (created by a PhD student here at York) called InteractML.
 
 ## Task 1: The Spellcasting Game
-
+### Important: You must clone this project through the ‘Use Template’ button.
 The practical today will build on a simple spellcasting game. To get hold of this game and all of the other files you’ll need for today you should create a copy of this repository in your personal GitHub account by pressing the `Use This Template` button. Once you’ve done this you should `clone` it onto your local machine. Finally, open the `WizardGame` scene in the `Practical Assets` folder.
 
 > [!WARNING]
