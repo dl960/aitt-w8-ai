@@ -410,7 +410,7 @@ MonoBehaviour:
   numberInComponentList: -1
   GameObjectDataOut: {fileID: 0}
   state: 1
-  GOHashCode: 65278
+  GOHashCode: 62720
   CreatedDuringPlaymode: 0
 --- !u!114 &-3406915153033204053
 MonoBehaviour:
@@ -535,7 +535,7 @@ MonoBehaviour:
   matchLiveDataInputs: 1
   matchVectorLength: 1
   warning: 
-  error: 1
+  error: 0
   trainOnLoad: 1
 --- !u!114 &-1082195409489992312
 MonoBehaviour:
@@ -586,7 +586,7 @@ MonoBehaviour:
   ReceivingData: 0
   FeatureValueReceivingData: 00
   InputConnected: 0
-  Counter: 3
+  Counter: 2
   Count: 5
   ToggleSwitches: 01
   ReceivedValue:
@@ -634,7 +634,7 @@ MonoBehaviour:
   id: c6b01730-08e9-416a-a0a3-4c084a06b385
   numberInComponentList: -1
   m_ScriptInternal: {fileID: 0}
-  ScriptHashCode: 65302
+  ScriptHashCode: 62744
   m_PortsPerFieldInfo:
     m_keys:
     - _fieldName: mouseHeld
@@ -730,7 +730,7 @@ MonoBehaviour:
   numberInComponentList: -1
   ReceivingData: 0
   FeatureValueReceivingData: 000000
-  Counter: 3
+  Counter: 2
   Count: 5
   ToggleSwitches: 010101
   ReceivedValue: []
@@ -740,9 +740,9 @@ MonoBehaviour:
   GameObjInputMissing: 1
   m_PositionExtracted:
     m_Values:
-    - 0.36276218
-    - 3.813071
-    - 3.9835167
+    - 1.9275246
+    - 2.7968059
+    - 1.9975072
 --- !u!114 &3218667142783135017
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -795,7 +795,7 @@ MonoBehaviour:
   ReceivingData: 0
   FeatureValueReceivingData: 00
   InputConnected: 1
-  Counter: 3
+  Counter: 2
   Count: 5
   ToggleSwitches: 01
   ReceivedValue:
